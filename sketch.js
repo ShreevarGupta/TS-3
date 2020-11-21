@@ -48,7 +48,7 @@ function setup() {
   block9 = new Block(645, 220, 30, 40);
 
 
-  bolck10 = new Block(600, 170, 30, 40);
+  block10 = new Block(600, 170, 30, 40);
   block11 = new Block(570, 180, 30, 40);
   block12 = new Block(630, 180, 30, 40);
 
@@ -121,7 +121,7 @@ function draw() {
   block9.display();
 
   fill(rgb(140,140,225));
-  bolck10.display();
+  block10.display();
   block11.display();
   block12.display();
 
